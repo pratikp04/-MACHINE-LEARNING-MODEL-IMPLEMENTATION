@@ -56,3 +56,4 @@ Realized the importance of data quality and balance in classification problems
 Conclusion: This task gave hands-on experience in applying machine learning to a real-world problem: spam detection. It involved everything from loading data and cleaning it, to building a model and evaluating it. With slight modifications, this same pipeline can be used for many other classification tasks like sentiment analysis, product categorization, etc.
 
 Output 
+[predictions.csv](https://github.com/user-attachments/files/21511083/predictions.csv)
